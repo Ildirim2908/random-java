@@ -1,5 +1,0 @@
-Car: 
-	Breand: String
-	Model: String 
-	Year: Integer
-	Engine: Double
